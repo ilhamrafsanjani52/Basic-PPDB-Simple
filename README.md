@@ -1,9 +1,5 @@
 # pendaftaran
-Aplikasi Pendaftaran Siswa Baru - Youtube #EDT
-
-https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
-
-http://e-development.tech/
+Aplikasi Pendaftaran Siswa Baru
 
 Menggunakan :
 - Template SB-Admin 2
@@ -22,3 +18,8 @@ Lingkup Aplikasi :
 - Login Sistem
 - Rekap Data Pendaftar
 - Cetak PDF
+
+- Proyek sistem ini adalah hasil remake dari proyek sistem milik bang EDI
+- https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
+
+  
