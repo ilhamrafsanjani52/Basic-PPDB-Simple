@@ -4,6 +4,7 @@ include('config/koneksi.php');
 session_start();
 
 if(isset($_POST['btn_login'])) {
+    
     // jika sudah ditekan
     $username = $_POST['username'];
     $password = md5($_POST['password']);
