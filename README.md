@@ -19,5 +19,7 @@ Lingkup Aplikasi :
 - Rekap Data Pendaftar
 - Cetak PDF
 
+Proyek sistem ini hanyalah simulasi untuk sistem PPDB dan hanya untuk dipelajari
 Proyek sistem ini adalah hasil remake dari proyek sistem milik bang EDI
-   https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
+
+https://www.youtube.com/watch?v=RtTqVmfNb-Y&list=PLusV1iDWr_sB3MEXgXOhW9BOwTD_cZxfp
